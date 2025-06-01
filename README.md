@@ -1,4 +1,2 @@
-# ATM-Website
-#.
-#
-#
+ATM-Website
+This is how ATM works.
