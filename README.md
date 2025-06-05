@@ -1,14 +1,14 @@
-# ATM Simulation Website
+# 💸ATM Simulation Website💳
 
-A web-based simulation of an ATM system, allowing users to perform basic banking operations.
+🔗A web-based simulation of an ATM system, allowing users to perform basic banking operations.
 
-## Features
+## 📖Features
 - User authentication and account management
 - Balance inquiry
 - Withdrawal and deposit transactions
 - Transaction history
 
-## Technologies Used
+## 📲Technologies Used
 - Frontend: HTML, CSS, JavaScript (with React)
 - Backend: Node.js (with Express.js)
 - Database: MySQL
